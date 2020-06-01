@@ -1,0 +1,25 @@
+{
+  "name": "restcheck-docs",
+  "version": "0.1.0",
+  "description": "Documentation website for restcheck library",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restcheck/restcheck-docs.git"
+  },
+  "author": "Jon Minter <jdiminter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/restcheck/restcheck-docs/issues"
+  },
+  "homepage": "https://github.com/restcheck/restcheck-docs#readme",
+  "dependencies": {
+    "docsify": "^4.11.3"
+  }
+}
