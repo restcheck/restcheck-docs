@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/restcheck/restcheck-docs#readme",
   "dependencies": {
-    "docsify": "^4.11.3"
+    "docsify": "^4.12.0"
   }
 }
